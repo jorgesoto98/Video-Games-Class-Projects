@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGroundParallax
+    uniqueID: 3781204279
+    locked: 0
+  - name: MiddleGroundParallax
+    uniqueID: 1899063355
+    locked: 0
   - name: BackGround
     uniqueID: 2669249405
     locked: 0
