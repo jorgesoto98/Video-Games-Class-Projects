@@ -1,4 +1,6 @@
 # VideoGamesProject
 Video Games Class Projects
-    Apple Picker Homework
+    - Apple Picker Homework
+    - Mision demolition 
+    - Final Proyect: 2D Plataformer 
     
