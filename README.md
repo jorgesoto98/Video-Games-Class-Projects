@@ -1,2 +1,4 @@
 # VideoGamesProject
-Video Games Class Final Project in unity
+Video Games Class Projects
+    Apple Picker Homework
+    
