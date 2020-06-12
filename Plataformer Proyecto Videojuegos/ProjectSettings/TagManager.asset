@@ -44,6 +44,9 @@ TagManager:
   - name: BackGroundParallax
     uniqueID: 3781204279
     locked: 0
+  - name: Mid Parallax
+    uniqueID: 3912222145
+    locked: 0
   - name: MiddleGroundParallax
     uniqueID: 1899063355
     locked: 0
@@ -55,6 +58,9 @@ TagManager:
     locked: 0
   - name: ForeGround
     uniqueID: 2459938611
+    locked: 0
+  - name: Fore-Front
+    uniqueID: 937486209
     locked: 0
   - name: FrontGround
     uniqueID: 2265790689
